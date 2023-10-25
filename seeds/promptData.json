@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "text": "Shrek hitting Sonic with a baseball bat.",
+        "p1_username": "bobby",
+        "p2_username": "mike",
+        "active":true
+    },
+    {
+        "text": "A whimsical alien riding a bicycle."
+    },
+    {
+        "text": "A mischievous squirrel planning an elaborate acorn heist."
+    },
+    {
+        "text": "An epic battle between a brave knight a fearsome dragon."
+    },
+    {
+        "text": "Playful mermaid having a dance-off with an octopus."
+    },
+    {
+        "text": "An adventurous cat with a pirate hat, exploring a hidden treasure island."
+    }
+]
